@@ -486,7 +486,7 @@ IrF5,Iridium fluoride
 IrF6,Iridium hexafluoride
 IrF4,Iridium tetrafluoride
 Fe2 Nb2O6,Columbite
-FeCl2 including hydrate,Iron chloride
+FeCl2,Iron chloride
 FeC2O4,Iron oxalate
 FeO,Iron oxide
 FeSeO4,Iron selenate
@@ -967,7 +967,7 @@ TiH4,Titanium hydride
 TiI4,Titanium iodide (titanium tetraiodide)
 TiC,Titanium carbide
 TiB2,Titanium diboride
-TiO2 Titanium dioxide (B),Titanium dioxide (titanium oxide)
+TiO2,Titanium dioxide (titanium oxide)
 TiSe2,Titanium diselenide
 TiSi2,Titanium disilicide
 TiS2,Titanium disulfide
@@ -2356,3 +2356,1191 @@ C3H6,Ethene
 C4H8,Propene
 C4H8,Butene
 C3H6O2,Propanoic acid
+h,Hydrogen(1)
+he,Helium(2)
+li,Lithium(3)
+be,Beryllium(4)
+b,Boron(5)
+c,Carbon(6)
+n,Nitrogen(7)
+o,Oxygen(8)
+f,Fluorine(9)
+ne,Neon(10)
+na,Sodium(11)
+mg,Magnesium(12)
+al,Aluminum(13)
+si,Silicon(14)
+p,Phosphorus(15)
+s,Sulfur(16)
+cl,Chlorine(17)
+ar,Argon(18)
+k,Potassium(19)
+ca,Calcium(20)
+sc,Scandium(21)
+ti,Titanium(22)
+v,Vanadium(23)
+cr,Chromium(24)
+mn,Manganese(25)
+fe,Iron(26)
+co,Cobalt(27)
+ni,Nickel(28)
+cu,Copper(29)
+zn,Zinc(30)
+ga,Gallium(31)
+ge,Germanium(32)
+as,Arsenic(33)
+se,Selenium(34)
+br,Bromine(35)
+kr,Krypton(36)
+rb,Rubidium(37)
+sr,Strontium(38)
+y,Yttrium(39)
+zr,Zirconium(40)
+nb,Niobium(41)
+mo,Molybdenum(42)
+tc,Technetium(43)
+ru,Ruthenium(44)
+rh,Rhodium(45)
+pd,Palladium(46)
+ag,Silver(47)
+cd,Cadmium(48)
+in,Indium(49)
+sn,Tin(50)
+sb,Antimony(51)
+te,Tellurium(52)
+i,Iodine(53)
+xe,Xenon(54)
+cs,Cesium(55)
+ba,Barium(56)
+la,Lanthanum(57)
+ce,Cerium(58)
+pr,Praseodymium(59)
+nd,Neodymium(60)
+pm,Promethium(61)
+sm,Samarium(62)
+eu,Europium(63)
+gd,Gadolinium(64)
+tb,Terbium(65)
+dy,Dysprosium(66)
+ho,Holmium(67)
+er,Erbium(68)
+tm,Thulium(69)
+yb,Ytterbium(70)
+lu,Lutetium(71)
+hf,Hafnium(72)
+ta,Tantalum(73)
+w,Tungsten(74)
+re,Rhenium(75)
+os,Osmium(76)
+ir,Iridium(77)
+pt,Platinum(78)
+au,Gold(79)
+hg,Mercury(80)
+tl,Thallium(81)
+pb,Lead(82)
+bi,Bismuth(83)
+po,Polonium(84)
+at,Astatine(85)
+rn,Radon(86)
+fr,Francium(87)
+ra,Radium(88)
+ac,Actinium(89)
+th,Thorium(90)
+pa,Protactinium(91)
+u,Uranium(92)
+np,Neptunium(93)
+pu,Plutonium(94)
+am,Americium(95)
+cm,Curium(96)
+bk,Berkelium(97)
+cf,Californium(98)
+es,Einsteinium(99)
+fm,Fermium(100)
+md,Mendelevium(101)
+no,Nobelium(102)
+lr,Lawrencium(103)
+rf,Rutherfordium(104)
+db,Dubnium(105)
+sg,Seaborgium(106)
+bh,Bohrium(107)
+hs,Hassium(108)
+mt,Meitnerium(109)
+alsb,Aluminium antimonide
+alaso4.8h2o,Aluminium arsenate
+alas,Aluminium arsenide
+alb2,Aluminium boride
+albr3,Aluminium bromide
+al4c3,Aluminium carbide
+ali3,Aluminium iodide
+aln,Aluminium nitride
+al2o3,Aluminium oxide
+alp,Aluminium phosphide
+alcl3,Aluminium chloride
+alf3,Aluminium fluoride
+al(oh)3,Aluminium hydroxide
+al(no3)3,Aluminium nitrate
+al2s3,Aluminium sulfide
+al2(so4)3,Aluminium sulfate
+alk(so4)2,Aluminium potassium sulfate
+nh3,Ammonia
+nh4n3,Ammonium azide
+nh4hco3,Ammonium bicarbonate (Ammonium hydrogen carbonate)
+nh4hso4,Ammonium bisulfate
+(nh4)2cro4,Ammonium chromate
+(nh4)2ce(no3)6,Ammonium cerium nitrate
+(nh4)4ce(so4)4,Ammonium cerium sulfate
+nh4cl,Ammonium chloride
+nh4clo3,Ammonium chlorate
+nh4cn,Ammonium cyanide
+(nh4)2cr2o7,Ammonium dichromate
+nh4h2po4,Ammonium dihydrogen phosphate
+nh4oh,Ammonium hydroxide
+(nh4)2(ptcl6),Ammonium hexachloroplatinate
+nh4no3,Ammonium nitrate
+(nh4)2moo4,Ammonium orthomolybdate
+h6n2o3s,Ammonium sulfamate
+(nh4)2s,Ammonium sulfide
+(nh4)2so3,Ammonium sulfite
+(nh4)2so4,Ammonium sulfate
+nh4clo4,Ammonium perchlorate
+nh4mno4,Ammonium permanganate
+(nh4)2s2o8,Ammonium persulfate
+nh4[cr(scn)4(nh3)2],Ammonium tetrathiocyanatodiamminechromate(III)
+nh4scn,Ammonium thiocyanate
+nh4i3,Ammonium triiodide
+h8mon2o4[1],Diammonium dioxido(dioxo)molybdenum
+(nh4)2hpo4,Diammonium phosphate
+sbh3,Antimony hydride
+sbcl5,Antimony pentachloride
+sbf5,Antimony pentafluoride
+k2sb2(c4h2o6)2,Antimony potassium tartrate
+sb2(so4)3,Antimony sulfate
+sbf3,Antimony trifluoride
+sb2o3,Antimony trioxide
+sb2s3,Antimony trisulfide
+sb2s5,Antimony pentasulfide
+harf,Argon fluorohydride
+asf3,Arsenic trifluoride
+asf5,Arsenic pentafluoride
+as2o3,Arsenic trioxide (Arsenic oxide)
+as(oh)3,Arsenous acid
+aso(oh)3,Arsenic acid
+ash3,Arsine
+ba(n3)2,Barium azide
+babr2,Barium bromide
+baco3,Barium carbonate
+ba(clo3)2,Barium chlorate
+bacl2,Barium chloride
+bacro4,Barium chromate
+bafeo4,Barium ferrate
+bafe12o19,Barium ferrite
+baf2,Barium fluoride
+ba(oh)2,Barium hydroxide
+bai2,Barium iodide
+bamno4,Barium manganate
+ba(no3)2,Barium nitrate
+ba(c2o4),Barium oxalate
+bao,Barium oxide
+ba(mno4)2,Barium permanganate
+bao2,Barium peroxide
+baso4,Barium sulfate
+bas,Barium sulfide
+batio3,Barium titanate
+be(bh4)2,Beryllium borohydride
+bebr2,Beryllium bromide
+beco3,Beryllium carbonate
+becl2,Beryllium chloride
+bef2,Beryllium fluoride
+beh2,Beryllium hydride
+be(oh)2,Beryllium hydroxide
+bei2,Beryllium iodide
+be(no3)2,Beryllium nitrate
+be3n2,Beryllium nitride
+beo,Beryllium oxide
+beso4,Beryllium sulfate
+beso3,Beryllium sulfite
+bete,Beryllium telluride
+bi2o3,Bismuth oxide
+bi2te3,Bismuth telluride
+befeo3,Bismuth ferrite
+biocl,Bismuth oxychloride
+bif5,Bismuth pentafluoride
+bibr3,Bismuth tribromide
+bh3,Borane
+na2b4o7·10h2o,Borax
+h3bo3,Boric acid
+b4c,Boron carbide
+bn,Boron nitride
+b6o,Boron suboxide
+bcl3,Boron trichloride
+bf3,Boron trifluoride
+b2o3,Boron oxide
+b10h14,Decaborane (Diborane)
+b2h6,Diborane
+b2f4,Diboron tetrafluoride
+b5h9,Pentaborane
+b4h10,Tetraborane
+brcl,Bromine monochloride
+brf5,Bromine pentafluoride
+brf3,Bromine trifluoride
+hbro4,Perbromic acid
+cd3as2,Cadmium arsenide
+cdbr2,Cadmium bromide
+cdcl2,Cadmium chloride
+cdf2,Cadmium fluoride
+cdi2,Cadmium iodide
+cd(no3)2,Cadmium nitrate
+cdo,Cadmium oxide
+cdse,Cadmium selenide
+cdso4,Cadmium sulfate
+cds,Cadmium sulfide
+cdte,Cadmium telluride
+cshco3,Caesium bicarbonate
+cs2co3,Caesium carbonate
+cscl,Caesium chloride
+cs2cro4,Caesium chromate
+csf,Caesium fluoride
+csh,Caesium hydride
+cshso4,Caesium hydrogen sulfate
+cs2so4,Caesium sulfate
+cabr2,Calcium bromide
+cac2,Calcium carbide
+caco3,Calcium carbonate(Precipitated Chalk)
+ca(clo3)2,Calcium chlorate
+cacl2,Calcium chloride
+cacro4,Calcium chromate
+cacn2,Calcium cyanamide
+caf2,Calcium fluoride
+cah2,Calcium hydride
+ca(oh)2,Calcium hydroxide
+casi,Calcium monosilicide
+ca(c2o4),Calcium oxalate
+caocl2,Calcium oxychloride
+ca(clo4)2,Calcium perchlorate
+ca(mno4)2,Calcium permanganate
+caso4,Calcium sulfate (gypsum)
+co2,Carbon dioxide
+cs2,Carbon disulfide
+co,Carbon monoxide
+cbr4,Carbon tetrabromide
+ccl4,Carbon tetrachloride
+cf4,Carbon tetrafluoride
+ci4,Carbon tetraiodide
+h2co3,Carbonic acid
+cocl2,Carbonyl chloride
+cof2,Carbonyl fluoride
+cos,Carbonyl sulfide
+c6h12n2o4pt,Carboplatin
+sic,carborundum
+cebr3,Cerium bromide
+ce2(co3)3,Cerium carbonate
+cecl3,Cerium chloride
+cef3,Cerium fluoride
+ce(oh)3,Cerium hydroxide
+cei3,Cerium iodide
+ce(no3)3,Cerium nitrate
+ce2o3,Cerium oxide
+ce2(so4)3,Cerium sulfate
+ce(oh)4,Cerium hydroxide
+ce(no3)4,Cerium nitrate
+ceo2,Cerium oxide
+ce(so4)2,Cerium sulfate
+ce3o4,"Cerium(III,IV) oxide"
+(nh4)2ce(no3)6,Ceric ammonium nitrate
+ceb6,Cerium hexaboride
+ceal,Cerium aluminium
+cecd,Cerium cadmium
+cemg,Cerium magnesium
+cehg,Cerium mercury
+ceag,Cerium silver
+cetl,Cerium thallium
+cezn,Cerium zinc
+hclo3,Chloric acid
+cln3,Chlorine azide
+clo2,Chlorine dioxide
+clf,Chlorine monofluoride
+clo,Chlorine monoxide
+clf5,Chlorine pentafluoride
+cl2o4,Chlorine perchlorate
+o3clooclo3,Chlorine tetroxide (the peroxide)
+clf3,Chlorine trifluoride
+clo3,Chlorine trioxide
+h2ptcl6,Chloroplatinic acid
+clo2f,Chloryl fluoride
+ptcl2(nh3)2,Cisplatin (cis–platinum chloride diamine)
+cl2o,Dichlorine monoxide
+cl2o2,Dichlorine dioxide
+cl2o3,Dichlorine trioxide
+cloclo3,Dichlorine tetroxide (chlorine perchlorate)
+cl2o6,Dichlorine hexoxide
+cl2o7,Dichlorine heptoxide
+sih2cl,Dichlorosilane
+hclo4,Perchloric acid
+clo3f,Perchloryl fluoride
+haucl4,Tetrachloroauric acid
+cro3,Chromic acid
+cro3,Chromium trioxide (Chromic acid)
+crcl2,Chromium chloride
+crso4,Chromium sulfate
+crcl3,Chromium chloride
+cr(no3)3,Chromium nitrate
+cr2o3,Chromium oxide
+cr2(so4)3,Chromium sulfate
+cr2te3,Chromium telluride
+cro2,Chromium oxide
+crf5,Chromium pentafluoride
+cro2cl2,Chromyl chloride
+cro2f2,Chromyl fluoride
+cobr2,Cobalt bromide
+coco3,Cobalt carbonate
+cocl2,Cobalt chloride
+co(no3)2,Cobalt nitrate
+coso4,Cobalt sulfate
+cof3,Cobalt fluoride
+cu2c2,Copper acetylide
+cucl,Copper chloride
+cuf,Copper fluoride
+cu2o,Copper oxide
+cuso4,Copper sulfate
+cu2s,Copper sulfide
+cu(n3)2,Copper azide
+cuco3,Copper carbonate
+cucl2,Copper chloride
+cu(oh)2,Copper hydroxide
+cu(no3)2,Copper nitrate
+cuo,Copper oxide
+cuso4,Copper sulfate
+cus,Copper sulfide
+h3clcu2o3[2],Copper oxychloride
+[cu(nh3)4]so4,Tetramminecopper sulfate
+cnbr,Cyanogen bromide
+cncl,Cyanogen chloride
+icn,Cyanogen iodide
+(cn)2,Cyanogen
+c3cl3n3,Cyanuric chloride
+cnscn[3],Cyanogen thiocyanate
+cnsecn[3],Cyanogen selenocyanate
+cnn3[3],Cyanogen azide
+si2h6,Disilane
+s2cl2,Disulfur dichloride
+dycl3,Dysprosium chloride
+dy2o3,Dysprosium oxide
+dy2ti2o7,Dysprosium titanate
+ercl3,Erbium chloride
+ercu,Erbium-copper
+erau,Erbium-gold
+erag,Erbium-silver
+erir,Erbium-Iridium
+eucl2,Europium chloride
+euso4,Europium sulfate
+eubr3,Europium bromide
+eucl3,Europium chloride
+eu(io3)3,Europium iodate
+eui3,Europium iodide
+eu(no3)3,Europium nitrate
+eu2o3,Europium oxide
+eu(clo4)3,Europium perchlorate
+eu2(so4)3,Europium sulfate
+euvo4,Europium vanadate
+n2f4,Tetrafluorohydrazine
+c2nf3,Trifluoromethylisocyanide
+cf3so3h,Trifluoromethanesulfonic acid
+gdcl3,Gadolinium chloride
+gd2o3,Gadolinium oxide
+gasb,Gallium antimonide
+gaas,Gallium arsenide
+gaf3,Gallium fluoride
+gacl3,Gallium trichloride
+gan,Gallium nitride
+gap,Gallium phosphide
+gas,Gallium sulfide
+ga2s3,Gallium sulfide
+ge2h6,Digermane
+geh4,Germane
+gebr2,Germanium bromide
+gecl2,Germanium chloride
+gef2,Germanium fluoride
+gei2,Germanium iodide
+geo,Germanium oxide
+gese,Germanium selenide
+ges,Germanium sulfide
+gebr4,Germanium bromide
+gecl4,Germanium chloride
+gef4,Germanium fluoride
+gei4,Germanium iodide
+ge3n4,Germanium nitride
+geo2,Germanium oxide
+gese2,Germanium selenide
+ges2,Germanium sulfide
+gef2,Germanium difluoride
+geo2,Germanium dioxide
+gecl4,Germanium tetrachloride
+gef4,Germanium tetrafluoride
+gete,Germanium telluride
+aubr,Gold bromide
+aucl,Gold chloride
+auh,Gold hydride
+aui,Gold iodide
+au2se,Gold selenide
+au2s,Gold sulfide
+(aubr3)2,Gold bromide
+(aucl3)2,Gold chloride
+auf3,Gold fluoride
+aui3,Gold iodide
+au2o3,Gold oxide
+au2se3,Gold selenide
+au2s3,Gold sulfide
+auf5,Gold fluoride
+au4cl8,"Gold(I,III) chloride"
+aute2,Gold ditelluride
+auf5·f2,Gold heptafluoride
+hfbr4,Hafnium bromide
+hfc,Hafnium carbide
+hfcl4,Hafnium chloride
+hff4,Hafnium fluoride
+hfi4,Hafnium iodide
+hfo2,Hafnium oxide
+hfsio4,Hafnium silicate
+hfs2,Hafnium sulfide
+rh6(co)16,Hexadecacarbonylhexarhodium
+h2f6si,Hexafluorosilicic acid
+n2h4,Hydrazine
+hn3,Hydrazoic acid
+hi,Hydroiodic acid
+hbr,Hydrogen bromide
+hcl,Hydrogen chloride
+hcn,Hydrogen cyanide
+hf,Hydrogen fluoride
+h2o2,Hydrogen peroxide
+h2se,Hydrogen selenide
+h2s,Hydrogen sulfide
+h2te,Hydrogen telluride
+nh2oh,Hydroxylamine
+hbro,Hypobromous acid
+hclo,Hypochlorous acid
+h3po2,Hypophosphorous acid
+hpo3,Metaphosphoric acid
+h3+,Protonated molecular hydrogen
+h2o3,Trioxidane
+na2he,Sodium helide
+inbr,Indium bromide
+inbr3,Indium bromide
+incl3,Indium chloride
+inf3,Indium fluoride
+in2o3,Indium oxide
+in2(so4)3,Indium sulfate
+insb,Indium antimonide
+inas,Indium arsenide
+inn,Indium nitride
+inp,Indium phosphide
+hio3,Iodic acid
+if7,Iodine heptafluoride
+if5,Iodine pentafluoride
+icl,Iodine monochloride
+icl3,Iodine trichloride
+hio4,Periodic acid
+ircl4,Iridium chloride
+irf5,Iridium fluoride
+irf6,Iridium hexafluoride
+irf4,Iridium tetrafluoride
+fe2 nb2o6,Columbite
+fecl2 including hydrate,Iron chloride
+fec2o4,Iron oxalate
+feo,Iron oxide
+feseo4,Iron selenate
+feso4,Iron sulfate
+fecl3,Iron chloride
+fef3,Iron fluoride
+c6fe2o12,Iron oxalate
+fe2o3,Iron oxide
+fe(no3)3(h2o)9,Iron nitrate
+fe2(so4)3,Iron sulfate
+fe(scn)3,Iron thiocyanate
+fe3o4,"Iron(II,III) oxide"
+fe7(cn)18,Iron ferrocyanide
+fe4[fe(cn)6]3,Prussian blue (Iron hexacyanoferrate(II))
+krf2,Krypton difluoride
+laal,Lanthanum aluminium
+lacd,Lanthanum cadmium
+la2(co3)3,Lanthanum carbonate
+lamg,Lanthanum magnesium
+lamno3,Lanthanum manganite
+lahg,Lanthanum mercury
+laag,Lanthanum silver
+latl,Lanthanum tallium
+lazn,Lanthanum zinc
+pb(n3)2,Lead azide
+pbbr2,Lead bromide
+pb(co3),Lead carbonate
+pbcl2,Lead chloride
+pbf 2,Lead fluoride
+pb(oh)2,Lead hydroxide
+pbi2,Lead iodide
+pb(no3)2,Lead nitrate
+pbo,Lead oxide
+pb3(po4)2,Lead phosphate
+pb(so4),Lead sulfate
+pbse,Lead selenide
+pbs,Lead sulfide
+pbte,Lead telluride
+pb(cns)2,Lead thiocyanate
+pb3o4,"Lead(II,IV) oxide"
+pbo2,Lead oxide
+pbs2,Lead sulfide
+pbhaso4,Lead hydrogen arsenate
+c6hn3o8pb,Lead styphnate
+pbcl4,Lead tetrachloride
+pbf4,Lead tetrafluoride
+pb3o4[4],Lead tetroxide
+pbtio3,Lead titanate
+pb[tixzr1–x]o3,Lead zirconate titanate
+pbh4,Plumbane
+lialcl4,Lithium tetrachloroaluminate
+lialh4,Lithium aluminium hydride
+libr,Lithium bromide
+libh4,Lithium borohydride
+li2co3,Lithium carbonate (Lithium salt)
+licl,Lithium chloride
+liclo,Lithium hypochlorite
+liclo3,Lithium chlorate
+liclo4,Lithium perchlorate
+licoo2,Lithium cobalt oxide
+li2o,Lithium oxide
+li2o2,Lithium peroxide
+lih,Lithium hydride
+lioh,Lithium hydroxide
+lii,Lithium iodide
+felio4p,Lithium iron phosphate
+lino3,Lithium nitrate
+li2s,Lithium sulfide
+li2so3,Lithium sulfite
+li2so4,Lithium sulfate
+lio2,Lithium superoxide
+lipf4,Lithium hexafluorophosphate
+mgsb,Magnesium antimonide
+mgbr2,Magnesium bromide
+mgco3,Magnesium carbonate
+mgcl2,Magnesium chloride
+c6h6mgo7,Magnesium citrate
+mgo,Magnesium oxide
+mg(clo4)2,Magnesium perchlorate
+mg3(po4)2,Magnesium phosphate
+mgso4,Magnesium sulfate
+mnbr2,Manganese bromide
+mncl2,Manganese chloride
+mn(oh)2,Manganese hydroxide
+mno,Manganese oxide
+mn3(po4)2,Manganese phosphate
+mnso4,Manganese sulfate
+mnso4.h2o,Manganese sulfate monohydrate
+mncl3,Manganese chloride
+mn2o3,Manganese oxide
+mnf4,Manganese fluoride
+mno2,Manganese oxide (manganese dioxide)
+mn3o4,"Manganese(II,III) oxide"
+mno2,Manganese dioxide
+mn2o7,Manganese heptoxide
+hg2cl2,Mercury chloride
+hg2so4,Mercury sulfate
+hgcl2,Mercury chloride
+mgh2,Mercury hydride
+hgse,Mercury selenide
+hgso4,Mercury sulfate
+hgs,Mercury sulfide
+hgte,Mercury telluride
+hg(scn)2,Mercury thiocyanate
+hgf4,Mercury fluoride
+hg(onc)2,Mercury fulminate
+mobr2,Molybdenum bromide
+mo6cl12,Molybdenum chloride
+mobr3,Molybdenum bromide
+mocl3,Molybdenum chloride
+moc,Molybdenum carbide
+mocl4,Molybdenum chloride
+mof4,Molybdenum fluoride
+mo2cl10,Molybdenum chloride
+mof5,Molybdenum fluoride
+mos2,Molybdenum disulfide
+mo(co)6,Molybdenum hexacarbonyl
+mof6,Molybdenum hexafluoride
+mocl4,Molybdenum tetrachloride
+moo3,Molybdenum trioxide
+h2moo4,Molybdic acid
+ndcl3,Neodymium chloride
+npf3,Neptunium fluoride
+npf4,Neptunium fluoride
+npo2,Neptunium oxide
+npf6,Neptunium fluoride
+nico3,Nickel carbonate
+nicl2,Nickel chloride
+nif2,Nickel fluoride
+ni(oh)2,Nickel hydroxide
+ni(no3)2,Nickel nitrate
+nio,Nickel oxide
+ni(so3nh2)2,Nickel sulfamate
+nis,Nickel sulfide
+nbf4,Niobium fluoride
+nbf5,Niobium fluoride
+nbocl3,Niobium oxychloride
+nbcl5,Niobium pentachloride
+n2o5,Dinitrogen pentoxide (nitronium nitrate)
+n2f4,Dinitrogen tetrafluoride
+n2o4,Dinitrogen tetroxide
+n2o3,Dinitrogen trioxide
+hno3,Nitric acid
+hno2,Nitrous acid
+no2,Nitrogen dioxide
+no,Nitrogen monoxide
+n2o,Nitrous oxide
+nf5,Nitrogen pentafluoride
+ni3,Nitrogen triiodide
+(no),Nitrosonium octafluoroxenate(VI)
+nobf4,Nitrosonium tetrafluoroborate
+nohso4,Nitrosylsulfuric acid
+osf6,Osmium hexafluoride
+oso4,Osmium tetroxide (osmium oxide)
+oso3,Osmium trioxide (osmium oxide)
+c24h54osn2,Oxybis(tributyltin)
+of2,Oxygen difluoride
+pdcl2,Palladium chloride
+pd(no3)2,Palladium nitrate
+pdf3,"Palladium(II,IV) fluoride"
+pdso4[5],Palladium sulfate
+pdf4,Palladium tetrafluoride
+p2cl4,Diphosphorus tetrachloride
+p2f4,Diphosphorus tetrafluoride
+p2i4,Diphosphorus tetraiodide
+ph3,Phosphine
+h3pmo12o40,Phosphomolybdic acid
+h3po4,Phosphoric acid
+h3po3,Phosphorous acid (Phosphoric acid)
+pbr5,Phosphorus pentabromide
+pf5,Phosphorus pentafluoride
+p4s10,Phosphorus pentasulfide
+p2o5,Phosphorus pentoxide
+p4s3,Phosphorus sesquisulfide
+pbr3,Phosphorus tribromide
+pcl3,Phosphorus trichloride
+pf3,Phosphorus trifluoride
+pi3,Phosphorus triiodide
+h3pw12o40,Phosphotungstic acid
+ptcl2,Platinum chloride
+ptcl4,Platinum chloride
+ptf6,Platinum hexafluoride
+ptf5,Platinum pentafluoride
+ptf4,Platinum tetrafluoride
+pucl3,Plutonium chloride
+puo2,Plutonium dioxide (Plutonium oxide)
+puf4,Plutonium tetrafluoride
+pof6,Polonium hexafluoride
+k2so4.al2(so4)3·24h2o,Potash Alum
+kalf4,Potassium aluminium fluoride
+knh2,Potassium amide
+kag(cn)2,Potassium argentocyanide
+kaso2,Potassium arsenite
+kn3,Potassium azide
+k2b4o7•4h2o,Potassium borate
+kbr,Potassium bromide
+khco3,Potassium bicarbonate
+khf2,Potassium bifluoride
+khso3,Potassium bisulfite
+k2co3,Potassium carbonate
+kcacl3,Potassium calcium chloride
+kclo3,Potassium chlorate
+kcl,Potassium chloride
+kclo2,Potassium chlorite
+k2cro4,Potassium chromate
+kcn,Potassium cyanide
+k2cr2o7,Potassium dichromate
+k2s2o4,Potassium dithionite
+k2feo4,Potassium ferrate
+k3[fe(c2o4)3],Potassium ferrioxalate
+k3[fe(cn)]6,Potassium ferricyanide
+k4[fe(cn)]6,Potassium ferrocyanide
+k2[taf7],Potassium heptafluorotantalate
+kpf6,Potassium hexafluorophosphate
+khco3,Potassium hydrogen carbonate
+khf2,Potassium hydrogen fluoride
+koh,Potassium hydroxide
+ki,Potassium iodide
+kio3,Potassium iodate
+k2mno4,Potassium manganate
+k2so4·khso4·2khso5,Potassium monopersulfate
+kno3,Potassium nitrate
+kbro4,Potassium perbromate
+kclo4,Potassium perchlorate
+kio4,Potassium periodate
+kmno4,Potassium permanganate
+knac4h4o6,Potassium sodium tartrate
+k2so4,Potassium sulfate
+k2so3,Potassium sulfite
+k2s,Potassium sulfide
+k2c4h4o6,Potassium tartrate
+k2hgi4,Potassium tetraiodomercurate(II)
+kscn,Potassium thiocyanate
+ktiopo4,Potassium titanyl phosphate
+kvo3,Potassium vanadate
+k3po4,Tripotassium phosphate
+prcl3,Praseodymium chloride
+pr2(so4)3,Praseodymium sulfate
+pmcl3,Promethium chloride
+pm2o3,Promethium oxide
+rabr2,Radium bromide
+racl2,Radium chloride
+rnf2,Radon difluoride
+reo2,Rhenium oxide
+re2o7,Rhenium oxide
+ref7,Rhenium heptafluoride
+ref6,Rhenium hexafluoride
+rhcl3,Rhodium chloride
+rhf6,Rhodium hexafluoride
+rbn3,Rubidium azide
+rbbr,Rubidium bromide
+rbcl,Rubidium chloride
+rbf,Rubidium fluoride
+rbhso4,Rubidium hydrogen sulfate
+rboh,Rubidium hydroxide
+rbi,Rubidium iodide
+rbno3,Rubidium nitrate
+rb2o,Rubidium oxide
+rb2te,Rubidium telluride
+ruf6,Ruthenium hexafluoride
+ruf5,Ruthenium pentafluoride
+ruo4,Ruthenium oxide
+smi2,Samarium iodide
+smcl3,Samarium chloride
+sm2o3,Samarium oxide
+scf3,Scandium fluoride
+sc(no3)3,Scandium nitrate
+sc2o3,Scandium oxide
+sc(oso2cf3)3,Scandium triflate
+h2seo4,Selenic acid
+h2seo3,Selenious acid
+sebr2,Selenium dibromide
+seo2,Selenium dioxide
+ses2,Selenium disulfide
+sef6,Selenium hexafluoride
+se2s6,Selenium hexasulfide
+seobr2,Selenium oxybromide
+seocl2,Selenium oxydichloride
+secl4,Selenium tetrachloride
+sef4,Selenium tetrafluoride
+seo3,Selenium trioxide
+seo2f2,Selenoyl fluoride
+sih4,Silane
+sio2·nh2o,Silica gel
+[siox(oh)4–2x]n,Silicic acid
+cl3hsi,"Silicochloroform, trichlorosilane"
+h2sif6,Silicofluoric acid
+sib3,Silicon boride
+sic,Silicon carbide
+sio2,Silicon dioxide
+sio,Silicon monoxide
+si3n4,Silicon nitride
+sibr4,Silicon tetrabromide
+sicl4,Silicon tetrachloride
+sif4,Silicon tetrafluoride
+sii4,Silicon tetraiodide
+"(sc,y)2si2o7",Thortveitite
+agf,Silver fluoride
+agf2,Silver fluoride
+ag2c2,Silver acetylide
+kag(cn)2,Silver argentocyanide
+agn3,Silver azide
+agbro3,Silver bromate
+agbr,Silver bromide
+agclo3,Silver chlorate
+agcl,Silver chloride
+ag2cro4,Silver chromate
+agbf4,Silver fluoroborate
+agcno,Silver fulminate
+agoh,Silver hydroxide
+agi,Silver iodide
+agno3,Silver nitrate
+ag3n,Silver nitride
+ag2o,Silver oxide
+agclo4,Silver perchlorate
+agmno4,Silver permanganate
+ag3po4,Silver phosphate (silver orthophosphate)
+ag2f,Silver subfluoride
+ag2so4,Silver sulfate
+ag2s,Silver sulfide
+nanh2,Sodamide
+naalo2,Sodium aluminate
+h24na3aso16,Sodium arsenate
+nan3,Sodium azide
+nahco3,Sodium bicarbonate
+nahse,Sodium biselenide
+nahso4,Sodium bisulfate
+nahso3,Sodium bisulfite
+nabh4,Sodium borohydride
+nabro3,Sodium bromate
+nabr,Sodium bromide
+nabro2,Sodium bromite
+na2c2,Sodium carbide
+na2co3,Sodium carbonate
+naclo3,Sodium chlorate
+nacl,Sodium chloride
+naclo2,Sodium chlorite
+con6na3o12[6],Sodium cobaltinitrite
+nacno,Sodium cyanate
+nacn,Sodium cyanide
+na2cr2o7.2h2o,Sodium dichromate
+nao2,Sodium dioxide
+na2s2o4,Sodium dithionite
+na4fe(cn)6,Sodium ferrocyanide
+naf,Sodium fluoride
+f6na2si,Sodium fluorosilicate
+hcoona,Sodium formate
+nah,Sodium hydride
+nahco3,Sodium hydrogen carbonate (Sodium bicarbonate)
+nash,Sodium hydrosulfide
+naoh,Sodium hydroxide
+nabro,Sodium hypobromite
+naocl,Sodium hypochlorite
+naio,Sodium hypoiodite
+napo2h2,Sodium hypophosphite
+naio3,Sodium iodate
+nai,Sodium iodide
+na2mno4,Sodium manganate
+na2moo4,Sodium molybdate
+na2pfo3,Sodium monofluorophosphate (MFP)
+nano3,Sodium nitrate
+nano2,Sodium nitrite
+na2[fe(cn)5no]·2h2o,Sodium nitroprusside
+na2o,Sodium oxide
+nabo3·h2o,Sodium perborate
+nabro4,Sodium perbromate
+2na2co3·3h2o2,Sodium percarbonate
+naclo4,Sodium perchlorate
+naio4,Sodium periodate
+namno4,Sodium permanganate
+na2o2,Sodium peroxide
+na2co4,Sodium peroxycarbonate
+nareo4,Sodium perrhenate
+na2s2o8,Sodium persulfate
+na3po4,Sodium phosphate; see trisodium phosphate
+na2o4se,Sodium selenate
+na2se,Sodium selenide
+na2seo3,Sodium selenite
+na2sio3,Sodium silicate
+na2so4,Sodium sulfate
+na2s,Sodium sulfide
+na2so3,Sodium sulfite
+c4h4na2o6,Sodium tartrate
+na2teo3,Sodium tellurite
+naalcl,Sodium tetrachloroaluminate
+nabf,Sodium tetrafluoroborate
+na3(sbs4).9h2o,Sodium thioantimoniate
+nascn,Sodium thiocyanate
+na2s2o3,Sodium thiosulfate
+na2wo4,Sodium tungstate
+na2o7u2,Sodium uranate
+h4na2o4zn[7],Sodium zincate
+na3po4,Trisodium phosphate
+srbr2,Strontium bromide
+srco3,Strontium carbonate
+srcl2,Strontium chloride
+srf2,Strontium fluoride
+sr(oh)2,Strontium hydroxide
+sri2,Strontium iodide
+sr(no3)2,Strontium nitrate
+sro,Strontium oxide
+srtio3,Strontium titanate
+s2f10,Disulfur decafluoride
+h2s,Hydrogen sulfide (sulfane)
+h2s2o7,Pyrosulfuric acid
+h3no3s,Sulfamic acid
+br2s,Sulfur dibromide
+so2,Sulfur dioxide
+sf6,Sulfur hexafluoride
+sf4,Sulfur tetrafluoride
+h2so4,Sulfuric acid
+h2so3,Sulfurous acid
+so2cl2,Sulfuryl chloride
+s4n4,Tetrasulfur tetranitride
+h2so5,Persulfuric acid (Caro's acid)
+tac,Tantalum carbide
+taf5,Tantalum pentafluoride
+ta2o5,Tantalum oxide
+tcf6,Technetium hexafluoride
+te2br,Ditellurium bromide
+h6teo6,Telluric acid
+teo2,Tellurium dioxide
+tef6,Tellurium hexafluoride
+tebr4,Tellurium tetrabromide
+tecl4,Tellurium tetrachloride
+tef4,Tellurium tetrafluoride
+tei4,Tellurium tetraiodide
+h2teo3,Tellurous acid
+tibr,Thallium bromide
+tl2co3,Thallium carbonate
+tlf,Thallium fluoride
+tl2so4,Thallium sulfate
+tl2o3,Thallium oxide
+tl2(so4)2,Thallium sulfate
+tli3,Thallium triiodide
+socl2,Thionyl chloride
+sof4,Thionyl tetrafluoride
+cscl2,Thiophosgene
+cl3ps,Thiophosphoryl chloride
+th(no3)4,Thorium nitrate
+th(so4)2,Thorium sulfate
+tho2,Thorium dioxide
+thf4,Thorium tetrafluoride
+tmbr3,Thulium bromide
+tmcl3,Thulium chloride
+tm2o3,Thulium oxide
+snh4,Stannate
+snbr2,Tin bromide
+sncl2,Tin chloride (stannous chloride)
+snf2,Tin fluoride
+sn(oh)2,Tin hydroxide
+sni2,Tin iodide
+sno,Tin oxide
+snso4,Tin sulfate
+sns,Tin sulfide
+snbr4,Tin bromide
+sncl4,Tin chloride
+snf4,Tin fluoride
+sni4,Tin iodide
+sno2,Tin oxide
+sns2,Tin sulfide
+snse2,Tin selenide
+snte,Tin telluride
+(h3o)2[tif6],Hexafluorotitanic acid
+ticl2,Titanium chloride
+tio,Titanium oxide
+tis,Titanium sulfide
+tibr3,Titanium bromide
+ticl3,Titanium chloride
+tif3,Titanium fluoride
+tii3,Titanium iodide
+ti2o3,Titanium oxide
+tip,Titanium phosphide
+tibr4,Titanium bromide (titanium tetrabromide)
+tic,Titanium carbide
+ticl4,Titanium chloride (titanium tetrachloride)
+tih4,Titanium hydride
+tii4,Titanium iodide (titanium tetraiodide)
+tic,Titanium carbide
+tib2,Titanium diboride
+tio2,Titanium dioxide (titanium oxide)
+tise2,Titanium diselenide
+tisi2,Titanium disilicide
+tis2,Titanium disulfide
+ti(no3)4,Titanium nitrate
+tin,Titanium nitride
+ti(clo4)4,Titanium perchlorate
+ti3sic2,Titanium silicon carbide
+tibr4,Titanium tetrabromide
+tif4,Titanium tetrafluoride
+tii4,Titanium tetraiodide
+tioso4,Titanyl sulfate
+wcl6,Tungsten chloride
+wf6,Tungsten fluoride
+wb2,Tungsten boride
+wc,Tungsten carbide
+h2wo4,Tungstic acid
+w(co)6,Tungsten hexacarbonyl
+u3o8,Triuranium octaoxide
+uf6,Uranium hexafluoride
+uf5,Uranium pentafluoride
+u(so4)2,Uranium sulfate
+ucl4,Uranium tetrachloride
+uf4,Uranium tetrafluoride
+uo2co3,Uranyl carbonate
+uo2cl2,Uranyl chloride
+uo2f2,Uranyl fluoride
+uo2(oh)2,Uranyl hydroxide
+(uo2)2(oh)4,Uranyl hydroxide
+uo2(no3)2,Uranyl nitrate
+uo2so4,Uranyl sulfate
+vcl2,Vanadium chloride
+vo,Vanadium oxide
+vbr3,Vanadium bromide
+vcl3,Vanadium chloride
+vf3,Vanadium fluoride
+vn,Vanadium nitride
+v2o3,Vanadium oxide
+vcl4,Vanadium chloride
+vo2,Vanadium oxide
+voso4,Vanadium sulfate
+v2o5,Vanadium oxide
+vc,Vanadium carbide
+vocl3,Vanadium oxytrichloride
+vf5,Vanadium pentafluoride
+vcl4,Vanadium tetrachloride
+vf4,Vanadium tetrafluoride
+h2o,Water
+h4xeo6,Perxenic acid
+xef2,Xenon difluoride
+xef6,Xenon hexafluoride
+xe[ptf6],Xenon hexafluoroplatinate
+xef4,Xenon tetrafluoride
+xeo4,Xenon tetroxide
+h2xeo4,Xenic acid
+ybcl3,Ytterbium chloride
+yb2o3,Ytterbium oxide
+yb2(so4)3,Ytterbium sulfate
+ysb,Yttrium antimonide
+yaso4,Yttrium arsenate
+yas,Yttrium arsenide
+ybr3,Yttrium bromide
+yf3,Yttrium fluoride
+y2o3,Yttrium oxide
+y(no3)3,Yttrium nitrate
+y2s3,Yttrium sulfide
+y2(so4)3,Yttrium sulfate
+y3al5o12,Yttrium aluminium garnet
+yba2cu3o7,Yttrium barium copper oxide
+ycd,Yttrium cadmium
+ycu,Yttrium copper
+yau,Yttrium gold
+yir,Yttrium iridium
+y3fe5o12,Yttrium iron garnet
+ymg,Yttrium magnesium
+ypo4,Yttrium phosphate
+yp,Yttrium phosphide
+yrh,Yttrium rhodium
+yag,Yttrium silver
+yzn,Yttrium zinc
+znbr2,Zinc bromide
+znco3,Zinc carbonate
+zncl2,Zinc chloride
+zn(cn)2,Zinc cyanide
+znf2,Zinc fluoride
+zni2,Zinc iodide
+zn(no3)2,Zinc nitrate
+zno,Zinc oxide
+zn2p2o7,Zinc pyrophosphate
+znseo4,Zinc selenate
+znse,Zinc selenide
+znseo3,Zinc selenite
+zn(secn)2,Zinc selenocyanate
+znso4,Zinc sulfate
+zns,Zinc sulfide
+znso3,Zinc sulfite
+znte,Zinc telluride
+zn(scn)2,Zinc thiocyanate
+znwo4,Zinc tungstate
+zro2·nh2o,Zirconia hydrate
+zrb2,Zirconium boride
+zrc,Zirconium carbide
+zrcl4,Zirconium chloride
+zro2,Zirconium oxide
+zr(oh)4,Zirconium hydroxide
+zrsio4,Zirconium orthosilicate
+zrn,Zirconium nitride
+zrf4,Zirconium tetrafluoride
+h4o4zr,Zirconium tetrahydroxide
+zrw2o8,Zirconium tungstate
+zrobr2,Zirconyl bromide
+zrocl2,Zirconyl chloride
+zro(no3)2,Zirconyl nitrate
+zroso4,Zirconyl sulfate
+clo,Hypochlorite - ClO(1-)
+clo2,Chlorite - ClO2(1-)
+clo3,Chlorate - ClO3(1-)
+clo4,Perchlorate - ClO4(1-)
+bro,Hypobromite - BrO(1-)
+bro2,Bromite - BrO2(1-)
+bro3,Bromate - BrO3(1-)
+bro4,Perbromate - BrO4(1-)
+io,Hypoiodite - IO(1-)
+io2,Iodite - IO2(1-)
+io3,Iodate - IO3(1-)
+io4,Periodate - IO4(1-)
+oh,Hydroxide - OH(1-)
+no2,Nitrite - NO2(1-)
+no3,Nitrate - NO3(1-)
+hco3,Bicarbonate - HCO3(1-)
+hso3,Bisulfite - HSO3(1-)
+hso4,Bisulfate - HSO4(1-)
+h2po4,Dihydrogen phosphate - H2PO4(1-)
+cn,Cyanide - CN(1-)
+cno,Cyanate - CNO(1-)
+scn,Thiocyanate - SCN(1-)
+mno4,Permanganate - MnO4(1-)
+c2h3o2,Acetate - C2H3O2(1-)
+o2,Peroxide - O2(2-)
+co3,Carbonate - CO3(2-)
+so3,Sulfite - SO3(2-)
+so4,Sulfate - SO4(2-)
+s2o3,Thiosulfate - S2O3(2-)
+hpo4,Biphosphate - HPO4(2-)
+cro4,Chromate - CrO4(2-)
+cr2o7,Dichromate - Cr2O7(2-)
+c2o4,Oxalate - C2O4(2-)
+po3,Phosphite - PO3(3-)
+po4,Phosphate - PO4(3-)
+ClO(1-),Hypochlorite
+ClO2(1-),Chlorite
+ClO3(1-),Chlorate
+ClO4(1-),Perchlorate
+BrO(1-),Hypobromite
+BrO2(1-),Bromite
+BrO3(1-),Bromate
+BrO4(1-),Perbromate
+IO(1-),Hypoiodite
+IO2(1-),Iodite
+IO3(1-),Iodate
+IO4(1-),Periodate
+OH(1-),Hydroxide
+NO2(1-),Nitrite
+NO3(1-),Nitrate
+HCO3(1-),Bicarbonate
+HSO3(1-),Bisulfite
+HSO4(1-),Bisulfate
+H2PO4(1-),Dihydrogen phosphate
+CN(1-),Cyanide
+CNO(1-),Cyanate
+SCN(1-),Thiocyanate
+MnO4(1-),Permanganate
+C2H3O2(1-),Acetate
+O2(2-),Peroxide
+CO3(2-),Carbonate
+SO3(2-),Sulfite
+SO4(2-),Sulfate
+S2O3(2-),Thiosulfate
+HPO4(2-),Biphosphate
+CrO4(2-),Chromate
+Cr2O7(2-),Dichromate
+C2O4(2-),Oxalate
+PO3(3-),Phosphite
+PO4(3-),Phosphate
+clo(1-),Hypochlorite
+clo2(1-),Chlorite
+clo3(1-),Chlorate
+clo4(1-),Perchlorate
+bro(1-),Hypobromite
+bro2(1-),Bromite
+bro3(1-),Bromate
+bro4(1-),Perbromate
+io(1-),Hypoiodite
+io2(1-),Iodite
+io3(1-),Iodate
+io4(1-),Periodate
+oh(1-),Hydroxide
+no2(1-),Nitrite
+no3(1-),Nitrate
+hco3(1-),Bicarbonate
+hso3(1-),Bisulfite
+hso4(1-),Bisulfate
+h2po4(1-),Dihydrogen phosphate
+cn(1-),Cyanide
+cno(1-),Cyanate
+scn(1-),Thiocyanate
+mno4(1-),Permanganate
+c2h3o2(1-),Acetate
+o2(2-),Peroxide
+co3(2-),Carbonate
+so3(2-),Sulfite
+so4(2-),Sulfate
+s2o3(2-),Thiosulfate
+hpo4(2-),Biphosphate
+cro4(2-),Chromate
+cr2o7(2-),Dichromate
+c2o4(2-),Oxalate
+po3(3-),Phosphite
+po4(3-),Phosphate
