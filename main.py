@@ -18,7 +18,7 @@ with open(os.path.abspath(os.path.dirname(sys.argv[0])) + '/exeptions.csv', 'r')
             exeptions.append(item)
 
 def converter():
-    prompt = input("Enter a symbol or a name of a chemical compound OR ENTER q TO QUIT: ")
+    prompt = input("Enter a symbol or a name OR ENTER q TO QUIT: ")
 
     for expetion in exeptions:
         if prompt in exeptions:
