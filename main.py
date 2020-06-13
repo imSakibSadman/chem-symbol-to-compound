@@ -19,10 +19,11 @@ with open(os.path.abspath(os.path.dirname(sys.argv[0])) + '/exeptions.csv', 'r')
 
 def converter():
     prompt = input("Enter a symbol or a name OR ENTER q TO QUIT: ")
+    alt_prompt = prompt.lower()
 
     for expetion in exeptions:
-        if prompt in exeptions:
-            prompt = prompt.capitalize()
+        if alt_prompt in exeptions:
+            prompt = alt_prompt.capitalize()
 
     for symbol in database:
         if prompt in database or prompt == "q":
