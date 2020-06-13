@@ -1,14 +1,16 @@
 
 import csv
+import os
+import sys
 
 database = {}
-with open('./chem-symbol-to-name/database.csv', 'r') as database_file:
+with open(os.path.abspath(os.path.dirname(sys.argv[0])) + '/database.csv', 'r') as database_file:
     readerx = csv.reader(database_file)
     for row in readerx:
         database[row[0]] = row[1]
 
 exeptions = []
-with open('./chem-symbol-to-name/exeptions.csv', 'r') as exeptions_file:
+with open(os.path.abspath(os.path.dirname(sys.argv[0])) + '/exeptions.csv', 'r') as exeptions_file:
     readery = csv.reader(exeptions_file)
     l = list(readery)
     for sublist in l:
