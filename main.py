@@ -17,7 +17,9 @@ with open(os.path.abspath(os.path.dirname(sys.argv[0])) + '/exeptions.csv', 'r')
         for item in sublist:
             exeptions.append(item)
 
-def converter():
+quiter = False
+
+while quiter is not True: 
     prompt = input("Enter a symbol or a name OR ENTER q TO QUIT: ")
     alt_prompt = prompt.lower()
 
@@ -30,15 +32,11 @@ def converter():
             break
         else:
             print("Not found in our database")
-            return True
+            quiter = False
 
     if prompt == "q":
         print("Thank You!")
-        return False
-
-    print(database[prompt])
-
-
-while converter() is not False:
-        converter()
+        quiter = True
+    else:
+        print(database[prompt])
     
