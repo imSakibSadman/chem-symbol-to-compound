@@ -1225,41 +1225,41 @@ Seaborgium,Sg(106)
 Bohrium,Bh(107)
 Hassium,Hs(108)
 Meitnerium,Mt(109)
-Hypochlorite,ClO(1-)
-Chlorite,ClO2(1-)
-Chlorate,ClO3(1-)
-Perchlorate,ClO4(1-)
-Hypobromite,BrO(1-)
-Bromite,BrO2(1-)
-Bromate,BrO3(1-)
-Perbromate,BrO4(1-)
-Hypoiodite,IO(1-)
-Iodite,IO2(1-)
-Iodate,IO3(1-)
-Periodate,IO4(1-)
-Hydroxide,OH(1-)
-Nitrite,NO2(1-)
-Nitrate,NO3(1-)
-Bicarbonate,HCO3(1-)
-Bisulfite,HSO3(1-)
-Bisulfate,HSO4(1-)
-Dihydrogen phosphate,H2PO4(1-)
-Cyanide,CN(1-)
-Cyanate,CNO(1-)
-Thiocyanate,SCN(1-)
-Permanganate,MnO4(1-)
-Acetate,C2H3O2(1-)
-Peroxide,O2(2-)
-Carbonate,CO3(2-)
-Sulfite,SO3(2-)
-Sulfate,SO4(2-)
-Thiosulfate,S2O3(2-)
-Biphosphate,HPO4(2-)
-Chromate,CrO4(2-)
-Dichromate,Cr2O7(2-)
-Oxalate,C2O4(2-)
-Phosphite,PO3(3-)
-Phosphate,PO4(3-)
+Hypochlorite,ClO¹⁻
+Chlorite,ClO2¹⁻
+Chlorate,ClO3¹⁻
+Perchlorate,ClO4¹⁻
+Hypobromite,BrO¹⁻
+Bromite,BrO2¹⁻
+Bromate,BrO3¹⁻
+Perbromate,BrO4¹⁻
+Hypoiodite,IO¹⁻
+Iodite,IO2¹⁻
+Iodate,IO3¹⁻
+Periodate,IO4¹⁻
+Hydroxide,OH¹⁻
+Nitrite,NO2¹⁻
+Nitrate,NO3¹⁻
+Bicarbonate,HCO3¹⁻
+Bisulfite,HSO3¹⁻
+Bisulfate,HSO4¹⁻
+Dihydrogen phosphate,H2PO4¹⁻
+Cyanide,CN¹⁻
+Cyanate,CNO¹⁻
+Thiocyanate,SCN¹⁻
+Permanganate,MnO4¹⁻
+Acetate,C2H3O2¹⁻
+Peroxide,O2²⁻
+Carbonate,CO3²⁻
+Sulfite,SO3²⁻
+Sulfate,SO4²⁻
+Thiosulfate,S2O3²⁻
+Biphosphate,HPO4²⁻
+Chromate,CrO4²⁻
+Dichromate,Cr2O7²⁻
+Oxalate,C2O4²⁻
+Phosphite,PO3³⁻
+Phosphate,PO4³⁻
 Aluminium antimonide,AlSb
 Aluminium arsenate,AlAsO4.8H2O
 Aluminium arsenide,AlAs
@@ -3439,41 +3439,111 @@ zrobr2,Zirconyl bromide
 zrocl2,Zirconyl chloride
 zro(no3)2,Zirconyl nitrate
 zroso4,Zirconyl sulfate
-clo,Hypochlorite — ClO(1-)
-clo2,Chlorite — ClO2(1-)
-clo3,Chlorate — ClO3(1-)
-clo4,Perchlorate — ClO4(1-)
-bro,Hypobromite — BrO(1-)
-bro2,Bromite — BrO2(1-)
-bro3,Bromate — BrO3(1-)
-bro4,Perbromate — BrO4(1-)
-io,Hypoiodite — IO(1-)
-io2,Iodite — IO2(1-)
-io3,Iodate — IO3(1-)
-io4,Periodate — IO4(1-)
-oh,Hydroxide — OH(1-)
-no2,Nitrite — NO2(1-)
-no3,Nitrate — NO3(1-)
-hco3,Bicarbonate — HCO3(1-)
-hso3,Bisulfite — HSO3(1-)
-hso4,Bisulfate — HSO4(1-)
-h2po4,Dihydrogen phosphate — H2PO4(1-)
-cn,Cyanide — CN(1-)
-cno,Cyanate — CNO(1-)
-scn,Thiocyanate — SCN(1-)
-mno4,Permanganate — MnO4(1-)
-c2h3o2,Acetate — C2H3O2(1-)
-o2,Peroxide — O2(2-)
-co3,Carbonate — CO3(2-)
-so3,Sulfite — SO3(2-)
-so4,Sulfate — SO4(2-)
-s2o3,Thiosulfate — S2O3(2-)
-hpo4,Biphosphate — HPO4(2-)
-cro4,Chromate — CrO4(2-)
-cr2o7,Dichromate — Cr2O7(2-)
-c2o4,Oxalate — C2O4(2-)
-po3,Phosphite — PO3(3-)
-po4,Phosphate — PO4(3-)
+clo,Hypochlorite — ClO¹⁻
+clo2,Chlorite — ClO2¹⁻
+clo3,Chlorate — ClO3¹⁻
+clo4,Perchlorate — ClO4¹⁻
+bro,Hypobromite — BrO¹⁻
+bro2,Bromite — BrO2¹⁻
+bro3,Bromate — BrO3¹⁻
+bro4,Perbromate — BrO4¹⁻
+io,Hypoiodite — IO¹⁻
+io2,Iodite — IO2¹⁻
+io3,Iodate — IO3¹⁻
+io4,Periodate — IO4¹⁻
+oh,Hydroxide — OH¹⁻
+no2,Nitrite — NO2¹⁻
+no3,Nitrate — NO3¹⁻
+hco3,Bicarbonate — HCO3¹⁻
+hso3,Bisulfite — HSO3¹⁻
+hso4,Bisulfate — HSO4¹⁻
+h2po4,Dihydrogen phosphate — H2PO4¹⁻
+cn,Cyanide — CN¹⁻
+cno,Cyanate — CNO¹⁻
+scn,Thiocyanate — SCN¹⁻
+mno4,Permanganate — MnO4¹⁻
+c2h3o2,Acetate — C2H3O2¹⁻
+o2,Peroxide — O2²⁻
+co3,Carbonate — CO3²⁻
+so3,Sulfite — SO3²⁻
+so4,Sulfate — SO4²⁻
+s2o3,Thiosulfate — S2O3²⁻
+hpo4,Biphosphate — HPO4²⁻
+cro4,Chromate — CrO4²⁻
+cr2o7,Dichromate — Cr2O7²⁻
+c2o4,Oxalate — C2O4²⁻
+po3,Phosphite — PO3³⁻
+po4,Phosphate — PO4³⁻
+ClO¹⁻,Hypochlorite
+ClO2¹⁻,Chlorite
+ClO3¹⁻,Chlorate
+ClO4¹⁻,Perchlorate
+BrO¹⁻,Hypobromite
+BrO2¹⁻,Bromite
+BrO3¹⁻,Bromate
+BrO4¹⁻,Perbromate
+IO¹⁻,Hypoiodite
+IO2¹⁻,Iodite
+IO3¹⁻,Iodate
+IO4¹⁻,Periodate
+OH¹⁻,Hydroxide
+NO2¹⁻,Nitrite
+NO3¹⁻,Nitrate
+HCO3¹⁻,Bicarbonate
+HSO3¹⁻,Bisulfite
+HSO4¹⁻,Bisulfate
+H2PO4¹⁻,Dihydrogen phosphate
+CN¹⁻,Cyanide
+CNO¹⁻,Cyanate
+SCN¹⁻,Thiocyanate
+MnO4¹⁻,Permanganate
+C2H3O2¹⁻,Acetate
+O2²⁻,Peroxide
+CO3²⁻,Carbonate
+SO3²⁻,Sulfite
+SO4²⁻,Sulfate
+S2O3²⁻,Thiosulfate
+HPO4²⁻,Biphosphate
+CrO4²⁻,Chromate
+Cr2O7²⁻,Dichromate
+C2O4²⁻,Oxalate
+PO3³⁻,Phosphite
+PO4³⁻,Phosphate
+clo¹⁻,Hypochlorite
+clo2¹⁻,Chlorite
+clo3¹⁻,Chlorate
+clo4¹⁻,Perchlorate
+bro¹⁻,Hypobromite
+bro2¹⁻,Bromite
+bro3¹⁻,Bromate
+bro4¹⁻,Perbromate
+io¹⁻,Hypoiodite
+io2¹⁻,Iodite
+io3¹⁻,Iodate
+io4¹⁻,Periodate
+oh¹⁻,Hydroxide
+no2¹⁻,Nitrite
+no3¹⁻,Nitrate
+hco3¹⁻,Bicarbonate
+hso3¹⁻,Bisulfite
+hso4¹⁻,Bisulfate
+h2po4¹⁻,Dihydrogen phosphate
+cn¹⁻,Cyanide
+cno¹⁻,Cyanate
+scn¹⁻,Thiocyanate
+mno4¹⁻,Permanganate
+c2h3o2¹⁻,Acetate
+o2²⁻,Peroxide
+co3²⁻,Carbonate
+so3²⁻,Sulfite
+so4²⁻,Sulfate
+s2o3²⁻,Thiosulfate
+hpo4²⁻,Biphosphate
+cro4²⁻,Chromate
+cr2o7²⁻,Dichromate
+c2o4²⁻,Oxalate
+po3³⁻,Phosphite
+po4³⁻,Phosphate
 ClO(1-),Hypochlorite
 ClO2(1-),Chlorite
 ClO3(1-),Chlorate
