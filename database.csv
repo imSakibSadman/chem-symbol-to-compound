@@ -116,6 +116,13 @@ mc,₁₁₅Moscovium
 lv,₁₁₆Livermorium
 ts,₁₁₇Tennessine
 og,₁₁₈Oganesson
+h2,Hydrogen(g)
+n2,Nitrogen(g)
+fl,Fluorine(g)
+o2,Oxygen(g)
+i2,Iodine(g)
+cl2,Chlorine(g)
+br2,Bromine(g)
 hydrogen,₁H
 helium,₂He
 lithium,₃Li
@@ -234,6 +241,13 @@ moscovium,₁₁₅Mc
 livermorium,₁₁₆Lv
 tennessine,₁₁₇Ts
 oganesson,₁₁₈Og
+hydrogen(g),H₂
+nitrogen(g),N₂
+fluorine(g),F₂
+oxygen(g),O₂
+iodine(g),I₂
+chlorine(g),Cl₂
+bromine(g),Br₂
 alsb,Aluminium antimonide
 alaso4.8h2o,Aluminium arsenate
 alas,Aluminium arsenide
